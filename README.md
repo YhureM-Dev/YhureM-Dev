@@ -5,7 +5,7 @@
 Where I'm practicing to improve HTML, CSS, JavaScript, React technologies more and more</p>
 <br> 
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -16,7 +16,7 @@ Where I'm practicing to improve HTML, CSS, JavaScript, React technologies more a
 <br>
 
 <p align="left">
-  Entre em contato comigo: ⤵️
+  Contact me: ⤵️
 </p>
 
 <p align="left">
