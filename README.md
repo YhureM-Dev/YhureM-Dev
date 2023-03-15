@@ -1,11 +1,23 @@
 ### Hi there 👋
 
-Hello everyone, my name is Yhure. I'm an apprentice in the art of programming, and here on GitHub I post some of my projects.
+<p>Hello everyone, my name is Yhure. I'm an apprentice in the art of programming, and here on GitHub I post some of my projects.
+
+Where I'm practicing to improve HTML, CSS, JavaScript, React technologies more and more</p>
 <br> 
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+<br>
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-5-logo">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'" alt="css-3-logo">
+<p align="left">
+  Entre em contato comigo: ⤵️
+</p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/yhure-medeiros-6a4a68155/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" href="https://www.linkedin.com/in/yhure-medeiros/"/></a>
 
-At the moment I am studying to deepen myself in the technologies that I already dominate, and I will start my studies in <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>  
